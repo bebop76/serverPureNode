@@ -1,0 +1,19 @@
+{
+  "name": "serverpurenode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "srv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bebop76/serverPureNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bebop76/serverPureNode/issues"
+  },
+  "homepage": "https://github.com/bebop76/serverPureNode#readme"
+}
